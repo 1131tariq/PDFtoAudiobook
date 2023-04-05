@@ -7,7 +7,7 @@ import requests
 import urllib.request
 
 # API Constants---------------------------------------------------------------------
-API = "ba1189a75cda43149bb513556ce1b838"
+# API = "Your API KEY Here"
 ENDPOINT = "https://api.voicerss.org/"
 LANG = "en-us"
 AUDIO = "MP3"
